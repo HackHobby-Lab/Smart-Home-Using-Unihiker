@@ -16,6 +16,11 @@ This project serves as a beginner-friendly gateway to the home automation. With 
 ### Tutorial
  https://www.instructables.com/Smart-Home-Using-Unihiker-and-NodeMcu/
 
+ https://www.hackster.io/Hackhobby_Lab/diy-smart-home-using-unihiker-and-nodemcu-e61fd8
+
+ https://community.dfrobot.com/makelog-313942.html
+ 
+
 # Hardware
 
 ![Hardware](https://github.com/Builtfor-developers/Smart-Home-Using-Unihiker/assets/70629275/8e366b27-40de-4e1a-a031-7f395eecd5e4)
